@@ -1,0 +1,9 @@
+D:\Work\CreditCalculator\CreditCalculator\bin\Release\CreditCalculator.exe.config
+D:\Work\CreditCalculator\CreditCalculator\bin\Release\CreditCalculator.exe
+D:\Work\CreditCalculator\CreditCalculator\bin\Release\CreditCalculator.pdb
+D:\Work\CreditCalculator\CreditCalculator\obj\Release\CreditCalculator.csprojResolveAssemblyReference.cache
+D:\Work\CreditCalculator\CreditCalculator\obj\Release\CreditCalculator.Form1.resources
+D:\Work\CreditCalculator\CreditCalculator\obj\Release\CreditCalculator.Properties.Resources.resources
+D:\Work\CreditCalculator\CreditCalculator\obj\Release\CreditCalculator.csproj.GenerateResource.Cache
+D:\Work\CreditCalculator\CreditCalculator\obj\Release\CreditCalculator.exe
+D:\Work\CreditCalculator\CreditCalculator\obj\Release\CreditCalculator.pdb
